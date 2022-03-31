@@ -1,3 +1,4 @@
-import images from "./images";
+import AppWrap from "./AppWrap";
+import MotionWrap from "./MotionWrap";
 
-export { images };
+export { AppWrap, MotionWrap };
